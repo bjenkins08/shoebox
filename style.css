@@ -1,0 +1,233 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+.line{
+ background-color:black
+ color:black;
+}
+.carousel-div{
+    padding-right:30px;
+    padding-left:30px;
+    padding-top:30px;
+}
+.carousel-title{
+    font-family: monospace;
+    font-weight: 500;
+    color:black;
+    text-align: center;
+    background-color: darkgrey;
+    padding: 30px;
+}
+.btn2{
+    background-color: darkgrey;
+    border-color: darkgray;
+}
+.btn3{
+    background-color: dimgray;
+    border-color: dimgrey;
+}
+.form{
+    background-color: darkgrey;
+    padding: 20px;
+}
+.sign-up {
+    background-color: darkgrey;
+    color: black;
+    text-align: center;
+    padding: 30px;
+}
+.oops{
+    font-size:40px;
+    text-align: center;
+    color: black;
+}
+.oops2{
+    width:80%;
+    display:block;
+    margin:0 auto;
+    background-color: darkgray;
+    padding: 40px;
+}
+.carousel-control-prev{
+    background-color: darkgrey;
+}
+.carousel-control-next{
+    background-color: darkgrey;
+}
+.body-margin{
+   margin: 0 auto;
+    width: 70%;
+    display: block;
+}
+.carousel-home{
+    padding:30px;
+}
+.random-div{
+    padding:30px;
+}
+.home-headers{
+    padding: 40px;
+    background-color: rgba(255,255,255,0.8)
+}
+.carousel-item{
+    background-color:darkgrey;
+}
+body {
+ background-image: url("https://docs.google.com/drawings/d/e/2PACX-1vRoXCZPQvOuWH-TI6wBjgrLySNaKaPJa1lunIY1LVos8fKitOXhwSDHmOwrW2_SwW5Tgm_O_zsw70rJ/pub?w=997&h=1534");
+ background-color: lightgrey;
+}
+#error-page{
+    background-image: url("https://docs.google.com/drawings/d/e/2PACX-1vRPHeACgyYt1XtV8UyyNnyOBx66UtG8pg16KKIzHMPiAt7Plkdk9Dex-SuGpjL9WwQIHioXUdOqvcLp/pub?w=1536&h=1152");
+}
+.slogan{
+    text-align: center;
+    color:black;
+    background-color:rgba(255,255,255,.8);
+    font-size:45px;
+    font-family:impact, charcoal, sans-serif;
+}
+.navbar{
+    background-color: darkgray;
+}
+.nav-item{
+    background-color:white;
+    border-style:groove;
+    border-color:darkgray;
+}
+.35off {
+    padding:30px;
+}
+.footer-home{
+    font-weight: 1000;
+    color:black;
+    text-align: center;
+    background-color:rgba(255,255,255,.8);
+}
+h1
+.feedback{
+    color:black;
+}
+.landing-square{
+    background-color: rgba(255,255,255,.8);
+    width:65%;
+    margin:0 auto;
+    display:block;
+}
+.rights-home{
+    font-weight: 1000;
+    font-size: 12px;
+    color:black;
+    background-color:rgba(255,255,255,.8);
+    width:100%;
+    margin:0 auto;
+    display:block;
+}
+.btn2{
+    height:30px;
+}
+
+.nav-item{
+    margin-bottom:3px ;
+    margin-top:3px ;
+    margin-left:3px ;
+    margin-right:3px ;
+}
+.rights{
+    font-weight: 1000;
+    font-size: 12px;
+    color:darkgray;
+    background-color: rgba(255,255,255,.8);
+    width:100%;
+    margin:0 auto;
+    display:block;
+}
+#top-logo{
+    width:95%;
+    display: block;
+    margin:20px auto;  
+}
+.btn{
+    width:50%;
+    display: block;
+    margin:20px auto;
+}
+.blog1{
+    background-color: white;
+    padding: 20px; 
+}
+.blog2{
+    padding-top:0px;
+    padding-left:12px;
+    padding-right:12px;
+    padding-bottom:0px;
+    background-color: white;
+}
+.blog3{
+    padding-top:0px;
+    padding-left:20px;
+    padding-right:12px;
+    padding-bottom:12px;
+    background-color: white;
+}
+
+.brand{
+    height: 400px;
+    width: auto;
+}
+
+
+
+
+
+/*-- 
+
+-------------FONT DETAILS --------------------------
+Look for Rubric
+
+font-family: 'Righteous', cursive;
+
+
+------------*/
+
+
+
+
+
+/*------- reset of body ------------*/
+img, footer {
+    width: 100%;
+    
+}
+
+
+
+footer {
+    position: relative;
+    bottom:0;
+    margin-top: 100px;
+
+}
+
+/*---------------- WEBSITE ------------------*/
+
+h1 {
+    color: green;
+   font-family: 'Rubik Vinyl', cursive;
+}
+#lorem {
+    font-weight: bolder; 
+    margin-right: 5px;
+}
+
+#box1 {
+    background-color: red;
+    height: 150px;
+    
+}
+
+#box2 {
+    background-color: lightskyblue;
+    height: 150px;
+}
+
+footer {
+    text-align: center;
+}
